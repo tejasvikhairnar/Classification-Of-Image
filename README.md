@@ -20,6 +20,9 @@ Model Evaluation: Evaluating the trained model's performance using a separate va
 
 Model Deployment: Deploying the trained model to classify new, unseen images into their respective categories.
 
+DataSet :
+We have taken Images Of fruits and Vegetables for Dataset
+
 
 Accuracy Result
 ![Accuracy Image](https://github.com/tejasvikhairnar/Classification-Of-Image/assets/127749855/6ce1c582-b259-4f4b-8ae9-6820e02a7cfa
@@ -28,3 +31,5 @@ Accuracy Result
 Final Result:
 
 ![Screenshot 2024-02-11 191825](https://github.com/tejasvikhairnar/Classification-Of-Image/assets/127749855/44d51aed-a4f2-4295-b9bb-9c08295bb4ce)
+
+Refernce:Youtube,Google
