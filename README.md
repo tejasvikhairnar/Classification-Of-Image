@@ -23,6 +23,8 @@ Model Deployment: Deploying the trained model to classify new, unseen images int
 
 Accuracy Result
 ![Accuracy Image](https://github.com/tejasvikhairnar/Classification-Of-Image/assets/127749855/6ce1c582-b259-4f4b-8ae9-6820e02a7cfa
+
+
 Final Result:
 
 ![Screenshot 2024-02-11 191825](https://github.com/tejasvikhairnar/Classification-Of-Image/assets/127749855/44d51aed-a4f2-4295-b9bb-9c08295bb4ce)
