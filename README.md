@@ -32,4 +32,4 @@ Final Result:
 
 ![Screenshot 2024-02-11 191825](https://github.com/tejasvikhairnar/Classification-Of-Image/assets/127749855/44d51aed-a4f2-4295-b9bb-9c08295bb4ce)
 
-Refernce:Youtube,Google
+
